@@ -1,5 +1,5 @@
-.timebox {
+/* Time box : 시계박스 스타일 설정 */
+.timebox { 
   display: none;
   margin: 100;
 }
-
